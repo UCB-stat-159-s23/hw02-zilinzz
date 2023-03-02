@@ -6,4 +6,6 @@ dependencies:
   - python=3.9.12
   - ipykernel==5.5
   - matplotlib==3.5
+  - h5py==3.7
+  - decorator==5.1
 prefix: /home/jovyan/envs/ligo
