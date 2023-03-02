@@ -8,4 +8,5 @@ dependencies:
   - matplotlib==3.5
   - h5py==3.7
   - decorator==5.1
+  - scipy==1.8
 prefix: /home/jovyan/envs/ligo
